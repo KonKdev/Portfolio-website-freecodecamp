@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-light {
+    background-color:#bf3447 !important;
+}
+
+.nav-item a {
+    display: block;
+    font-size: 2rem;
+    padding: 1rem;
+    color: seashell !important;
+}
+
+a {
+    text-decoration: none;
+    color: var(--main-white);
+}
+
+h1 {
+    font-size: 4rem;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 3rem;
+    padding-bottom: 60px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 3rem;
+    padding-bottom: 60px;
+    text-decoration:underline;
+    text-underline-position: under;
+    color: seashell;
+}
+
+.welcome-section > p {
+    font-size: 2rem;
+    font-weight: 200;
+    font-style: italic;
+    color: #bf3447;
+    text-align: center;
+}
+
+#welcome-section{
+    background-color: rgba(0, 0, 0, 0.753);
+    width: 100%;
+    /* height: 100vh; */
+    padding-bottom: 150px;
+}
+
+.card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    /* margin-left: 50px; */
+    width: 300px;
+}
+
+.card-img-top{
+    object-fit: cover;
+    height: 228px;
+}
+
+a{
+    text-align: center;
+}
+
+.project-title{
+    font-size: 2rem;
+    padding: 2rem 0.5rem;
+}
+
+.header-section{
+    background-color: rgba(12, 20, 85, 0.753);
+}
+
+#projects{
+    background-color: rgba(12, 20, 85, 0.753);
+}
+
+.projects-section-header{
+    margin-bottom:0px;
+}
+
+.projects-section{
+    margin-top:0px;
+}
+
+.text-center {
+    text-align: center!important;
+    padding: 100px;
+}
+.contact-section-header>h2{
+    font-size: 6rem;
+}
+
+.contact-section{
+    background-color: rgb(4, 51, 51);
+    color: whitesmoke;
+}
+
+/* i{
+    background-color: #bf3447;
+    color: #000;
+} */
+
+.social-media{
+    color: white;
+    margin: 10px;
+    font-size: 40px;
+    padding-top: 10px;
+   
+}
+
+footer{
+    background: #000;
+}
+
+.contact-details{
+    padding: 40px;
+}
+
+.navbar{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#section-web{
+
+  margin-block-start: -1.8em;
+  margin-block-end: 0.2em;
+  margin-inline-start: 0px; 
+  margin-inline-end: 0px;
+}
+
+.rows{
+    margin-left: 0px;
+    margin-right: 0px;
+}
